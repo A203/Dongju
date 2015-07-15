@@ -1,0 +1,11 @@
+<resources>
+    <string name="hello"></string>
+    <string name="action_settings">工程师：董炬</string>
+    <string name="app_name"></string>
+    <string name="bmi_height">身高</string>
+    <string name="bmi_weight">体重</string>
+    <string name="bmi_button">计算BMI</string>
+    <string name="advice_heavy">体型：偏胖</string>
+    <string name="advice_light">体型：偏瘦</string>
+    <string name="advice_average">体型：正常</string>
+</resources>
